@@ -1,5 +1,4 @@
 ## Navigating the Lab
-
 :::labhelp
 
 !INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/@lab.Variable(cloudEnviroment).md)
