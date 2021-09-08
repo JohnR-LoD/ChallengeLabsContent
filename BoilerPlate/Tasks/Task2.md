@@ -1,5 +1,3 @@
-===
-
 # !INSTRUCTIONS[][task-2-title]
 
 #### !INSTRUCTIONS[][task-2-subtitle]
