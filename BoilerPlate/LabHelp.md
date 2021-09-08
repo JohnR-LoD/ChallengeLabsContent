@@ -2,7 +2,7 @@
 
 :::labhelp
 
-https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/@lab.Variable(cloudEnviroment).md
+!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/@lab.Variable(cloudEnviroment).md)
 
 <details class=info-icon>
 <summary title="Click for More...">Quick tips for navigating the lab instructions</summary>
