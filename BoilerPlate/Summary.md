@@ -10,8 +10,8 @@ Click below to **Submit** your lab for scoring.
 
 Other challenges in this series:
 
-- @lab.Variable(NextSteps1)
+- @lab.Variable(nextSteps1)
 
-- @lab.Variable(NextSteps2)
+- @lab.Variable(nextSteps2)
 
 !instructions[](https://raw.githubusercontent.com/LODSContent/ChallengeTemplates/master/Boilerplate/Feedback.md)
