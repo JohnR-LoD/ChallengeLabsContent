@@ -1,7 +1,7 @@
-# !INSTRUCTIONS[][task-6-title]
+# !INSTRUCTIONS[][requirement-6-title]
 
-#### !INSTRUCTIONS[][task-6-subtitle]
+#### !INSTRUCTIONS[][requirement-6-subtitle]
 
-!INSTRUCTIONS[][task-6-scenerio]
+!INSTRUCTIONS[][requirement-6-scenerio]
 
-!INSTRUCTIONS[][task-6-task]
+!INSTRUCTIONS[][requirement-6-task]
