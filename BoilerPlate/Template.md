@@ -9,7 +9,7 @@
 <!-- Author end-->
 ===
 <!-- Task 1 -->
-!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Tasks/Task1.md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Requirements/Requirement1.md)
 <!-- Author start -->
 
 >[task-1-title]:
@@ -23,7 +23,7 @@
 <!-- Author end -->
 ===
 <!-- Task 2 -->
-!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Tasks/Task2.md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Requirements/Requirement2.md)
 <!-- Author start -->
 
 >[task-2-title]:
@@ -37,7 +37,7 @@
 <!-- Author end -->
 ===
 <!-- Task 3 -->
-!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Tasks/Task3.md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Requirements/Requirement3.md)
 <!-- Author start -->
 
 >[task-3-title]:
@@ -51,7 +51,7 @@
 <!-- Author end -->
 ===
 <!-- Task 4 -->
-!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Tasks/Task4.md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Requirements/Requirement4.md)
 <!-- Author start -->
 
 >[task-4-title]:
@@ -65,7 +65,7 @@
 <!-- Author end -->
 ===
 <!-- Task 5-->
-!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Tasks/Task5.md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Requirements/Requirement5.md)
 <!-- Author start -->
 
 >[task-5-title]:
@@ -79,7 +79,7 @@
 <!-- Author end -->
 ===
 <!-- Task 6-->
-!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Tasks/Task6.md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Requirements/Requirement6.md)
 <!-- Author start -->
 
 >[task-6-title]:
@@ -93,7 +93,7 @@
 <!-- Author end -->
 ===
 <!-- Task 7-->
-!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Tasks/Task7.md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Requirements/Requirement7.md)
 <!-- Author start -->
 
 >[task-7-title]:
@@ -107,7 +107,7 @@
 <!-- Author end -->
 ===
 <!-- Task 8-->
-!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Tasks/Task8.md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Requirements/Requirement8.md)
 <!-- Author start -->
 
 >[task-8-title]:
@@ -121,7 +121,7 @@
 <!-- Author end -->
 ===
 <!-- Task 9-->
-!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Tasks/Task9.md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Requirements/Requirement9.md)
 <!-- Author start -->
 
 >[task-9-title]:
@@ -135,7 +135,7 @@
 <!-- Author end -->
 ===
 <!-- Task 10-->
-!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Tasks/Task10.md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/Requirements/Requirement10.md)
 <!-- Author start -->
 
 >[task-10-title]:
