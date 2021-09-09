@@ -5,79 +5,79 @@
 !INSTRUCTIONS[][Requirement-1-task-1-instruction]
 !INSTRUCTIONS[][Requirement-1-task-1-table]
 !INSTRUCTIONS[][Requirement-1-task-1-code]
-!INSTRUCTIONS[][Requirement-1-task-1-hint]
-!INSTRUCTIONS[][Requirement-1-task-1-knowledge]
-!INSTRUCTIONS[][Requirement-1-task-1-alert]
-!INSTRUCTIONS[][Requirement-1-task-1-note]
+<span class="hint-icon">!INSTRUCTIONS[][Requirement-1-task-1-hint]</span>
+<span class="know-icon">!INSTRUCTIONS[][Requirement-1-task-1-knowledge]</span>
+<span class="warn-icon">!INSTRUCTIONS[][Requirement-1-task-1-alert]</span>
+<span class="note-icon">!INSTRUCTIONS[][Requirement-1-task-1-note]</span>
 
 !INSTRUCTIONS[][Requirement-1-task-2-instruction]
 !INSTRUCTIONS[][Requirement-1-task-2-table]
 !INSTRUCTIONS[][Requirement-1-task-2-code]
-!INSTRUCTIONS[][Requirement-1-task-2-hint]
-!INSTRUCTIONS[][Requirement-1-task-2-knowledge]
-!INSTRUCTIONS[][Requirement-1-task-2-alert]
-!INSTRUCTIONS[][Requirement-1-task-2-note]
+<span class="hint-icon">!INSTRUCTIONS[][Requirement-1-task-2-hint]</span>
+<span class="know-icon">!INSTRUCTIONS[][Requirement-1-task-2-knowledge]</span>
+<span class="warn-icon">!INSTRUCTIONS[][Requirement-1-task-2-alert]</span>
+<span class="note-icon">!INSTRUCTIONS[][Requirement-1-task-2-note]</span>
 
 !INSTRUCTIONS[][Requirement-1-task-3-instruction]
 !INSTRUCTIONS[][Requirement-1-task-3-table]
 !INSTRUCTIONS[][Requirement-1-task-3-code]
-!INSTRUCTIONS[][Requirement-1-task-3-hint]
-!INSTRUCTIONS[][Requirement-1-task-3-knowledge]
-!INSTRUCTIONS[][Requirement-1-task-3-alert]
-!INSTRUCTIONS[][Requirement-1-task-3-note]
+<span class="hint-icon">!INSTRUCTIONS[][Requirement-1-task-3-hint]</span>
+<span class="know-icon">!INSTRUCTIONS[][Requirement-1-task-3-knowledge]</span>
+<span class="warn-icon">!INSTRUCTIONS[][Requirement-1-task-3-alert]</span>
+<span class="note-icon">!INSTRUCTIONS[][Requirement-1-task-3-note]</span>
 
 !INSTRUCTIONS[][Requirement-1-task-4-instruction]
 !INSTRUCTIONS[][Requirement-1-task-4-table]
 !INSTRUCTIONS[][Requirement-1-task-4-code]
-!INSTRUCTIONS[][Requirement-1-task-4-hint]
-!INSTRUCTIONS[][Requirement-1-task-4-knowledge]
-!INSTRUCTIONS[][Requirement-1-task-4-alert]
-!INSTRUCTIONS[][Requirement-1-task-4-note]
+<span class="hint-icon">!INSTRUCTIONS[][Requirement-1-task-4-hint]</span>
+<span class="know-icon">!INSTRUCTIONS[][Requirement-1-task-4-knowledge]</span>
+<span class="warn-icon">!INSTRUCTIONS[][Requirement-1-task-4-alert]</span>
+<span class="note-icon">!INSTRUCTIONS[][Requirement-1-task-4-note]</span>
 
 !INSTRUCTIONS[][Requirement-1-task-5-instruction]
 !INSTRUCTIONS[][Requirement-1-task-5-table]
 !INSTRUCTIONS[][Requirement-1-task-5-code]
-!INSTRUCTIONS[][Requirement-1-task-5-hint]
-!INSTRUCTIONS[][Requirement-1-task-5-knowledge]
-!INSTRUCTIONS[][Requirement-1-task-5-alert]
-!INSTRUCTIONS[][Requirement-1-task-5-note]
+<span class="hint-icon">!INSTRUCTIONS[][Requirement-1-task-5-hint]</span>
+<span class="know-icon">!INSTRUCTIONS[][Requirement-1-task-5-knowledge]</span>
+<span class="warn-icon">!INSTRUCTIONS[][Requirement-1-task-5-alert]</span>
+<span class="note-icon">!INSTRUCTIONS[][Requirement-1-task-5-note]</span>
 
 !INSTRUCTIONS[][Requirement-1-task-6-instruction]
 !INSTRUCTIONS[][Requirement-1-task-6-table]
 !INSTRUCTIONS[][Requirement-1-task-6-code]
-!INSTRUCTIONS[][Requirement-1-task-6-hint]
-!INSTRUCTIONS[][Requirement-1-task-6-knowledge]
-!INSTRUCTIONS[][Requirement-1-task-6-alert]
-!INSTRUCTIONS[][Requirement-1-task-6-note]
+<span class="hint-icon">!INSTRUCTIONS[][Requirement-1-task-6-hint]</span>
+<span class="know-icon">!INSTRUCTIONS[][Requirement-1-task-6-knowledge]</span>
+<span class="warn-icon">!INSTRUCTIONS[][Requirement-1-task-6-alert]</span>
+<span class="note-icon">!INSTRUCTIONS[][Requirement-1-task-6-note]</span>
 
 !INSTRUCTIONS[][Requirement-1-task-7-instruction]
 !INSTRUCTIONS[][Requirement-1-task-7-table]
 !INSTRUCTIONS[][Requirement-1-task-7-code]
-!INSTRUCTIONS[][Requirement-1-task-7-hint]
-!INSTRUCTIONS[][Requirement-1-task-7-knowledge]
-!INSTRUCTIONS[][Requirement-1-task-7-alert]
-!INSTRUCTIONS[][Requirement-1-task-7-note]
+<span class="hint-icon">!INSTRUCTIONS[][Requirement-1-task-7-hint]</span>
+<span class="know-icon">!INSTRUCTIONS[][Requirement-1-task-7-knowledge]</span>
+<span class="warn-icon">!INSTRUCTIONS[][Requirement-1-task-7-alert]</span>
+<span class="note-icon">!INSTRUCTIONS[][Requirement-1-task-7-note]</span>
 
 !INSTRUCTIONS[][Requirement-1-task-8-instruction]
 !INSTRUCTIONS[][Requirement-1-task-8-table]
 !INSTRUCTIONS[][Requirement-1-task-8-code]
-!INSTRUCTIONS[][Requirement-1-task-8-hint]
-!INSTRUCTIONS[][Requirement-1-task-8-knowledge]
-!INSTRUCTIONS[][Requirement-1-task-8-alert]
-!INSTRUCTIONS[][Requirement-1-task-8-note]
+<span class="hint-icon">!INSTRUCTIONS[][Requirement-1-task-8-hint]</span>
+<span class="know-icon">!INSTRUCTIONS[][Requirement-1-task-8-knowledge]</span>
+<span class="warn-icon">!INSTRUCTIONS[][Requirement-1-task-8-alert]</span>
+<span class="note-icon">!INSTRUCTIONS[][Requirement-1-task-8-note]</span>
 
 !INSTRUCTIONS[][Requirement-1-task-9-instruction]
 !INSTRUCTIONS[][Requirement-1-task-9-table]
 !INSTRUCTIONS[][Requirement-1-task-9-code]
-!INSTRUCTIONS[][Requirement-1-task-9-hint]
-!INSTRUCTIONS[][Requirement-1-task-9-knowledge]
-!INSTRUCTIONS[][Requirement-1-task-9-alert]
-!INSTRUCTIONS[][Requirement-1-task-9-note]
+<span class="hint-icon">!INSTRUCTIONS[][Requirement-1-task-9-hint]</span>
+<span class="know-icon">!INSTRUCTIONS[][Requirement-1-task-9-knowledge]</span>
+<span class="warn-icon">!INSTRUCTIONS[][Requirement-1-task-9-alert]</span>
+<span class="note-icon">!INSTRUCTIONS[][Requirement-1-task-9-note]</span>
 
 !INSTRUCTIONS[][Requirement-1-task-10-instruction]
 !INSTRUCTIONS[][Requirement-1-task-10-table]
 !INSTRUCTIONS[][Requirement-1-task-10-code]
-!INSTRUCTIONS[][Requirement-1-task-10-hint]
-!INSTRUCTIONS[][Requirement-1-task-10-knowledge]
-!INSTRUCTIONS[][Requirement-1-task-10-alert]
-!INSTRUCTIONS[][Requirement-1-task-10-note]
+<span class="hint-icon">!INSTRUCTIONS[][Requirement-1-task-10-hint]</span>
+<span class="know-icon">!INSTRUCTIONS[][Requirement-1-task-10-knowledge]</span>
+<span class="warn-icon">!INSTRUCTIONS[][Requirement-1-task-10-alert]</span>
+<span class="note-icon">!INSTRUCTIONS[][Requirement-1-task-10-note]</span>
