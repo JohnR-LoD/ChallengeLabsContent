@@ -4,4 +4,4 @@
 
 !INSTRUCTIONS[][requirement-6-scenerio]
 
-!INSTRUCTIONS[][requirement-6-task]
+!INSTRUCTIONS[][requirement-6-tasks]
