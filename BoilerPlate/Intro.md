@@ -1,4 +1,4 @@
-!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/master/BoilerPlate/@lab.Variable(difficulty).md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/JohnR-LoD/ChallengeLabsContent/refs/heads/master/BoilerPlate/@lab.Variable(difficulty).md)
 
 # !INSTRUCTIONS[][challenge-name]
 
